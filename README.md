@@ -21,3 +21,14 @@
 
 ## Project 2 
 ## Image to Pencil Sketch with Python
+# 
+# 
+## Prerequisites: OpenCV Library 
+#
+# 
+## Step to follow :
+### Step 1 : Load the image
+### Step 2 : Grayscale the image
+### Step 3 : Invert the colors of it
+### Step 4 : Blur the inverted image
+### step 5 : Apply the Dodge blend to the blurred and grayscale image
